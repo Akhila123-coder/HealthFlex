@@ -27,16 +27,16 @@ This assignment aims to develop a mobile application using React/React Native or
 cd weather-app
 npm install
 
-#### Configuration:
+## Configuration:
 Specify any configuration settings or files that need attention.
 
 ```markdown
-## Configuration
+Configuration
 
 - Update API keys in the configuration file (`config.js` or `.env`) with your Tomorrow.io API key.
 
 
-### Running Tests
+## Running Tests
 You can run them using the following command:
 
 ```bash
@@ -65,7 +65,7 @@ Issue: API Request Failures
   2. Inspect the console for any error messages related to failed API requests.
   3. If the issue persists, try restarting the application or refreshing the page.
 
-### Contact Information
+## Contact Information
 
 For further assistance or inquiries, please contact me:
 
